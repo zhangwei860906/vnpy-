@@ -1,10 +1,10 @@
 {
   "name": "1号策略",
-  "exchange": "OKX",
+  "exchange": "GLOBAL",
   "symbol": "ETHUSDT_SWAP_OKX.GLOBAL",
-  "api_key": "your_api_key",
-  "api_secret": "your_api_secret",
-  "passphrase": "your_passphrase",
+  "api_key": "081cd535-a20d-47d3-84c8-156e792536d5",
+  "api_secret": "05F7530368689D60AC2C640C8D300F14",
+  "passphrase": "Zw123456.",
   "parameters": {
     "bar_interval": 1,
     "brick_size": 5
